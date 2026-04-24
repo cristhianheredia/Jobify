@@ -1,0 +1,14 @@
+# Database (local only)
+jobs.db
+jobs.db-shm
+jobs.db-wal
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
